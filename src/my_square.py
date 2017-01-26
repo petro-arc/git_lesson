@@ -1,3 +1,7 @@
+""" 
+here is some documentation x
+"""
+
 def my_square(x):
 	return(x ** 2)
 
